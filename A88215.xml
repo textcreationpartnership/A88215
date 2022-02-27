@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent from Captaine Lilburne, to divers of his friends, citizens, and others of good account in London, wherein he fully expresseth the misery of his imprisonment, and the barbarous usage of the Cavaliers towards him. Desiring them (if it were possible) to use some means for his releasement.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88215</idno>
+            <idno type="STC">Wing L2134</idno>
+            <idno type="STC">Thomason E84_5</idno>
+            <idno type="STC">ESTC R212814</idno>
+            <idno type="EEBO-CITATION">99871375</idno>
+            <idno type="PROQUEST">99871375</idno>
+            <idno type="VID">123785</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88215)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123785)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E84[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent from Captaine Lilburne, to divers of his friends, citizens, and others of good account in London, wherein he fully expresseth the misery of his imprisonment, and the barbarous usage of the Cavaliers towards him. Desiring them (if it were possible) to use some means for his releasement.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iames Rogers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prisoners' writings, English --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123785:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 56 -->
+            <p>A LETTER Sent from Captaine LILBVRNE, To divers of his Friends, Citizens, and others of good account in LONDON, Wherein he fully expreſſeth the miſery of his impriſonment, and the barbarous uſage of the Cavaliers towards him.</p>
+            <p>Deſiring them (if it were poſſible) to uſe ſome means for his releaſement.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Iames Rogers.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:123785:2"/>
+            <!-- PDF PAGE 57 -->
+            <pb n="3" facs="tcp:123785:2"/>
+            <!-- PDF PAGE 57 -->
+            <head>A Letter ſent from Captaine <hi>Lil<g ref="char:EOLhyphen"/>burne</hi> to divers of his friends in LONDON.</head>
+            <opener>
+               <salute>My deare friends,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T will ſeeme ſtrange to you, conſidering the miſerable condition of my preſent for<g ref="char:EOLhyphen"/>tune, and the ſtrictneſſe of my impriſon<g ref="char:EOLhyphen"/>ment, to receive any notice from me of my affaires; but God having bleſt me with the opportunity of this treaty, and convenient meſſenger, I thought it fit to give you the true intelligence how things ſtand with me at this inſtant time of my writing. I am thanks be to God in very good health, though in as ſtrict impriſonment as can be poſſible unleſſe I ſhould be in a dungeon; and ſince Judge <hi>Heath,</hi> whom God forgive, pronounced ſentence of death againſt me, I have been loden with Irons; but thoſe either by direct command from His Majeſty, or out of his owne cle<g ref="char:EOLhyphen"/>mency or by the mediation of ſome about him, are now ta<g ref="char:EOLhyphen"/>ken o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from me. The report was here immediately after my condemnation, that I ſhould ſuffer an ignominious death but
+<pb n="4" facs="tcp:123785:3"/>
+               <!-- PDF PAGE 58 -->
+ſince the Honourable the High Court of Parliament, in my favour put out their Declaration that rumour hath been quite daſhed, ſo that I muſt confeſſe I owe my life more to their bounty, then to the gentleneſſe of my enemies, who went about as much as poſſible in them lay to deprive me of it and truly I ſhould very cheerfully have received my f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eath, being ſecured by the innocence of my owne conſcience, that I ſhould have dyed Gods true religious, and my Countries Martyr, for whoſe ſake I put on Armes. And not my impri<g ref="char:EOLhyphen"/>ſonment, nor death, would have ſo much afflicted me, as doe the thoughts, that by my reſtraint I am deprived of doing my beſt endeavour, according to my poore abilities, in ſer<g ref="char:EOLhyphen"/>ving the affaires of that ſtrength of this kingdome, and champion of true Religion, the Honourable the High Court of Parliament: In whoſe ſervice, if I had dyed valiantly in the field in the face of thoſe enemies to all goodneſſe and humanity, the Cavaliers, it would have been a more wel<g ref="char:EOLhyphen"/>come benefit to me then this impriſonment, wherein I lye and languiſh under a daily death; the griefe whereof would certainly take away my life, did not the goodneſſe of the cauſe for which I ſuffer, like an Angell of light, come and comfort me in this darkneſſe, and make me not onely ſcorne my afflictions, but even rejoyce that I am held worthy for Gods cauſe, and my Countries, to undergoe theſe bonds; and ſhould they never ſo long impriſon my body, it ſhould not a jot inthrall the liberty of my minde, which is above the unhappineſſe of my fortune; and I doe ſtill ſerve the State and Parliament as much in the integrity of my heart, and wiſhes, as I did when I had my freedome, and converſe as familiarly with you in my underſtanding, as when I was at London with you; marry the greateſt croſſe that hath be<g ref="char:EOLhyphen"/>fallen in this my durance, is, that the barbarouſneſſe of my Gaolers and viſitants, the Cavaliers, who never ceaſe revi<g ref="char:EOLhyphen"/>ling me, calling me Round-head, Parliament-dog, and termes of the like villany and diſgrace, never ſuffering me to enjoy the quiet of being alone, but when they are weary
+<pb n="5" facs="tcp:123785:3"/>
+               <!-- PDF PAGE 58 -->
+of tormenting me; ſo that ſometimes, as I am a man, I am not enough fortified againſt their reproaches; which to a couragious mind, breed more torments then to have ones body cut into a thouſand peeces; and certainly, I ſhould unarmed as I am divers times fly in the faces of theſe adver<g ref="char:EOLhyphen"/>ſaries to God and all good men, did not my reaſon tell me it were an act of deſperate cowardiſe, rather then truly valour in any man to ſeeke his owne death; For no more mercy would they ſhew to me in ſuch a caſe, then Turks would, nay perhaps, not ſo much; the Turks themſelves being ſurely better civilized, then theſe monſters of Chriſti<g ref="char:EOLhyphen"/>anitie, who neither reſpected the Divine or Humane Lawes, but make whatſoever their wicked deſires guide them to, that onely is a Law to them, nor is it in the power of the King or his Officers to reſtraine them from any outrage they have a will to commit: they keeping his Mayeſtie and thoſe Noble-men that are with them, ſcarcely in any condition better then that of im<g ref="char:EOLhyphen"/>priſonment, or as hoſtages for their owne ſafetie; ſo that in my duty to his Majeſty, to whom I told the Cavaliers to their teeth, I was as loyall a Subject as the beſt of them. I doe much pity the miſery of his preſent miſ<g ref="char:EOLhyphen"/>fortune, being inforced to doe nothing contrary to their de<g ref="char:EOLhyphen"/>ſires, not having liberty to diſpoſe of his owne intenti<g ref="char:EOLhyphen"/>ons or Perſon: but theſe Cavaliers have their powerfull agents in his Councells, and, as it were, their ſpies upon his Perſon, leſt Hee ſhould (as I doe verily believe His Highneſſe would, if it were poſſible) make an eſcape from them, (of whoſe behaviour His goodneſſe muſt needs be weary) to <hi>London,</hi> to His high Court of Parliament, as I was informed from an old friend of mine at Court, a Yeoman of the Guard, one very well affected to the King and Parliament, who hath given mee divers viſits ſince my impriſonment: hee further more avowing, that the Cavaliers inſult ſo much over His Majeſties meniall ſervants, that they with their domineering, and the want
+<pb n="6" facs="tcp:123785:4"/>
+               <!-- PDF PAGE 59 -->
+of their ſalaries, are ſo much oppreſſed, that they would, if it were poſſible withdraw themſelves from Court to <hi>London</hi> to their houſes; but if any one of them ſhould but attempt his eſcape, the Cavaliers would cut his throat. And ſurely, this man whom you all know, hath beene next to my owne innocence, the greateſt comfort I have had in my impriſonment: and hee that hath given mee to underſtand (for I am never ſuffered to goe abroad, or to ſpeake with any body elſe that will informe me any thing truely) that his Majeſty intends certainly to make His aboad at <hi>Oxford</hi> during this Winter, and hath for that cauſe bought up, or taken upon truſt, all the corne and other proviſion could be poſſible procured in the Countrey thereabouts; that they are in great want of powder and ammunition in the Kings Army, and that ther ſouldiers ſteale away daily for want of pay; and that all the hopes his Majeſty hath of ſupplies, is from the Earle of <hi>Newcaſtle,</hi> who ſhould receive them from beyond ſea: that the towne of <hi>Oxford</hi> is not ſo well fortified as is reported; and that the Kings Army there is nothing ſo ſtrong as they report it, and this was all the newes which he would relate to me for truth. And this I thought good to certifie unto you; and as con<g ref="char:EOLhyphen"/>cerning mine owne affaires, you may imagine, my deare friends, how heavie a burthen it is for mee to groane under the weight of this impriſonment, which ſurely is as grievous to mee as that was of the Prophets commit<g ref="char:EOLhyphen"/>ted by <hi>Ahab,</hi> to be fed with the bread and water of af<g ref="char:EOLhyphen"/>fliction; for Gentlemen, doe but conſider with your ſelves, if it were any of your owne caſes to be as I am at this inſtant, bereaved of your libertie, and by that meanes de<g ref="char:EOLhyphen"/>prived of the ſocietie of your friends and kindred, robb'd of all that is either pleaſant or delightfull to mankind; I doe believe (though the cauſe of your ſufferings were as noble as mine is, which is as noble and honeſt as ever cauſe was, or can be, your humane frailties wearied with
+<pb n="7" facs="tcp:123785:4"/>
+               <!-- PDF PAGE 59 -->
+the afflictions of your preſent misfortune, and conſidera<g ref="char:EOLhyphen"/>tion of your paſt happineſſe (would as I doe now) de<g ref="char:EOLhyphen"/>ſire liberty, to be freed from the griefes you are oppreſſed with, and be reſtored to the happineſſe you have beene ſo long deprived of. I wiſh, I profeſſe to you not my liberty ſo much for theſe ends though, as that by it I ought have occaſion to beſtow my ſelfe in the quarrell of the Common-wealth againſt theſe divelliſh Cavaliers, who have vilified mee as much as it is poſſible for ſuch traducers of God and all good men to doe; nor ſhould I ever receive ſo much comfort from any worldly bleſ<g ref="char:EOLhyphen"/>ſing, as to ſee my ſelfe once more in the field in com<g ref="char:EOLhyphen"/>pleat harneſſe againſt thoſe Malignants to the Common-wealth, they ſhould then quickly perceive I ſhould with Gods Grace, be able to right my ſelfe of part of the a<g ref="char:EOLhyphen"/>buſes they have with ſo much deſpight caſt upon me<g ref="char:punc">▪</g>
+            </p>
+            <p>I would therefore deſire you, deare and truly friends, to uſe all the meanes in your poſſibilities that may pro<g ref="char:EOLhyphen"/>cure my liberty. I know the honourable the high Court of Parliament wil not be wanting to the effecting of my freedome; and I doe believe his Excellency the Earle of <hi>Eſſex,</hi> might by the commutation or exchange of ano<g ref="char:EOLhyphen"/>ther Captaine of their ſide for mee, worke my reſtitu<g ref="char:EOLhyphen"/>tion to libertie: his Excellencies owne noble diſpoſition and the affection hee beares naturally to his Souldiers and Commanders, will be as forward in any treaty of that nature as you will deſire hee ſhould be; let me there<g ref="char:EOLhyphen"/>fore injoyne you, as you have ever reſpected the good of your unfortunate friend, or ever will give a teſtimony of the reallitie of your u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>faigned affections to mee, to omit no occaſion, either by this meanes or any other, which to you may appeare better for the ſudden reſtitu<g ref="char:EOLhyphen"/>tion of my libertie, which is not more precious to mee then my ardent deſires of expreſſing in the moſt ample manner my affections to the common-wealth, my zeale to Gods true Religion; and laſt of all, my love to you
+<pb n="8" facs="tcp:123785:5"/>
+               <!-- PDF PAGE 60 -->
+Gentlemen, whom I eſteeme as deare as my ſelfe, and wiſh none of you may ever have ſo much misfortunes as to fall into the hands of theſe inhumane Butchers, the Cavaliers. I ſhall not need with any further inducements or circumſtances to ingage you to a forwardneſſe in my behalfe, I ſhould then in that, abuſe the integritie of your honeſt friendſhip, I know I cannot be more ready to deſire your paines in this kind then you will be to im<g ref="char:EOLhyphen"/>ply them; and ſo the God of mercy and peace bleſſe, ſanctifie and preſerve you all, and ſend the light of his countenance, his beſt of bleſſing downe on the honou<g ref="char:EOLhyphen"/>rable the High Court of Parliament, that they may pro<g ref="char:EOLhyphen"/>ceed cheerefully as they have begun for the glory of God and all our goods in the great buſineſſe of the Com<g ref="char:EOLhyphen"/>mon-wealth, And if I be never ranſomed, but die in my impriſonment, I ſhall joyfully take my lot, and thinke I fell happy in ſuffering for my Religion and Countrey, the Common-wealths true ſervant, and your entire friend,</p>
+            <closer>
+               <signed>I. L.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
